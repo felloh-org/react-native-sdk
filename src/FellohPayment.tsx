@@ -10,7 +10,6 @@ import { WebView, type WebViewMessageEvent } from 'react-native-webview';
 
 import {
   PRODUCTION_ENV,
-  STAGING_ENV,
   SANDBOX_ENV,
   DEV_ENV,
 } from './constants/environment';
