@@ -1,0 +1,11 @@
+__tests__/
+coverage/
+.github/
+.eslintrc.*
+.gitignore
+tsconfig.json
+tsconfig.build.json
+jest.config.js
+babel.config.js
+CLAUDE.md
+*.tgz
