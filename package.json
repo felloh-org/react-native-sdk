@@ -2,9 +2,9 @@
   "name": "@felloh-org/react-native-sdk",
   "version": "1.0.0",
   "description": "React Native SDK for Felloh payments",
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/commonjs/index.js",
+  "module": "dist/module/index.js",
+  "types": "dist/typescript/index.d.ts",
   "source": "src/index.ts",
   "files": [
     "dist",
