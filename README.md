@@ -2,7 +2,7 @@
 
 [![Release](https://github.com/felloh-org/react-native-sdk/actions/workflows/release.yml/badge.svg)](https://github.com/felloh-org/react-native-sdk/actions/workflows/release.yml)
 
-React Native SDK for integratings [Felloh](https://felloh.com) payments. Embed a secure payment form in your React Native app using a WebView-based component.
+React Native SDK [Felloh](https://felloh.com) payments. Embed a secure payment form in your React Native app using a WebView-based component.
 
 ## Installation
 
